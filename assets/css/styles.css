@@ -107,10 +107,6 @@ textarea:focus-visible {
   border-color: black;
 }
 
-.container{
-    display: flex;
-}
-
 header{
     background-color: var(--header-background-color);
     min-height: 850px;
