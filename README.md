@@ -1,8 +1,14 @@
 # Landing Page no Mundo Invertido | HTML e CSS
 
 
-Landing Page desenvolvida com HTML e CSS durante o desafio de projeto da Dio.
+Landing Page com a temática da série Stranger Things, desenvolvida com HTML e CSS durante o desafio de projeto da Dio.
 
+A página possui dois temas estilizados, que se alternam com um clique no botão inverter mundos.
+
+[Clique aqui](https://pedroallysson.github.io/landing-page-mundo-invertido/) para acessar o resultado final desse projeto!
+
+
+![image](https://github.com/user-attachments/assets/bd3fb80c-3b07-4f92-8efe-34c52902af66)
 
 
 
